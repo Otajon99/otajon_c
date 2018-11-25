@@ -1,0 +1,171 @@
+img{
+	padding-top:10px;
+width: 30%;
+height: 50%;
+font-size:auto;
+
+}
+body{
+	margin:0;
+	padding:0;
+	background:#DCD7D7;
+}
+header li{
+	position: relative;
+	top: -30px;
+	display:inline;
+	padding:10px;
+text-decoration:none;
+font-size: 30px;
+}
+header{
+height: 80px;
+position: sticky;
+background:#958D8D;
+color:black; 
+border-bottom: red 3px solid ;
+}
+header h1 {
+height: 50%;
+width: 50%;
+}
+.home
+{
+ text-align: center;
+}
+.nav, .home
+{
+	position: static;
+	text-align: right;
+	top: 10px;
+	padding-top: 0;	
+}
+ .pos1 {
+ 	position: absolute;
+	text-align: center;
+	margin-right: 10px;
+	font-family:sans-serif;
+	top: 150px;
+	left: 420px;
+}
+.input1{
+	position: absolute;
+	top: 200px;
+	height: 50px;
+	left: 350px;
+	width: 250px;
+color: black;
+text-align: center;
+font-family:sans-serif;
+text-decoration: none;
+font-weight: bold;
+font-size: 20px;
+margin: 30px;
+
+}
+
+.pos2 {
+ 	position: absolute;
+	text-align: center;
+	margin-right: 10px;
+	font-family:sans-serif;
+	top: 500px;
+	left: 400px;
+}
+
+
+.pos3 {
+ 	position: absolute;
+	text-align: center;
+	margin-right: 10px;
+	font-family:sans-serif;
+	top: 870px;
+	left: 420px;
+}
+.input2{
+	position:absolute;
+	left:350px;
+	top:850;
+	height: 50px;
+	width: 250px;
+color: black;
+text-align: center;
+font-family:sans-serif;
+text-decoration: none;
+font-weight: bold;
+font-size: 20px;
+margin: 30px;
+
+
+}
+.pos4 {
+ 	position: absolute;
+	text-align: center;
+	margin-right: 10px;
+	font-family:sans-serif;
+	top: 1250px;
+	left: 400px;
+}
+.pos5 {
+ 	position: absolute;
+	text-align: center;
+	margin-right: 10px;
+	font-family:sans-serif;
+	top: 1600px;
+	left: 420px;
+}
+.input3{
+	position:absolute;
+	left:350px;
+	top:850;
+	height: 50px;
+	width: 250px;
+color: black;
+text-align: center;
+font-family:sans-serif;
+text-decoration: none;
+font-weight: bold;
+font-size: 20px;
+margin: 30px;
+
+
+}
+
+.input4{
+	position:absolute;
+	left:350px;
+	top:850;
+	height: 50px;
+	width: 250px;
+color: black;
+text-align: center;
+font-family:sans-serif;
+text-decoration: none;
+font-weight: bold;
+font-size: 20px;
+margin: 30px;
+
+
+}
+.input5{
+	position:absolute;
+	left:350px;
+	top:850;
+	height: 50px;
+	width: 250px;
+color: black;
+text-align: center;
+font-family:sans-serif;
+text-decoration: none;
+font-weight: bold;
+font-size: 20px;
+margin: 30px;
+
+
+}
+
+
+
+
+
+
